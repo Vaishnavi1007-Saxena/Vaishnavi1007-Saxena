@@ -14,6 +14,6 @@
 * **Core:** Digital Electronics, Signals and Systems and Semiconductor Devices and Circuits.
 
 ### 📫 Connect with me
-* [LinkedIn](https://linkedin.com/in/vaishnavi-saxena)
+* [LinkedIn](https://linkedin.com/in/vaishnavi-saxena-635136318)
 * Email: vaishnavisaxena1007@gmail.com-
 
