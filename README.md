@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I'm Vaishnavi Saxena
 
-<!--
-**Vaishnavi1007-Saxena/Vaishnavi1007-Saxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+* 📍 **B.Tech (ECE)** student at **Banasthali Vidyapith** (CGPA: 9.28).
+* 🎯 Focused on **AI-assisted hardware systems**, **Signal Processing**, and **VLSI**.
+* 🛠️ Passionate about bridging the gap between electronics and machine learning.
 
-Here are some ideas to get you started:
+### 🚀 Key Projects
+* **Smart Waste Management System:** An IoT-based project using sensors and ML for predictive level monitoring.
+* **nodemcu-mlserver:** This server connects sensor data with ML model and ML model data with Arduino code.
+### 🛠️ Technical Skills
+* **Languages:** C, C++, Python, MATLAB.
+* **Tools:** GitHub, Linux, LaTeX, VS Code.
+* **Core:** Digital Electronics, Signals and Systems and Semiconductor Devices and Circuits.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+* [LinkedIn](https://linkedin.com/in/vaishnavi-saxena)
+* Email: vaishnavisaxena1007@gmail.com-
+
